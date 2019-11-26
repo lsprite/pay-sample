@@ -1,0 +1,1 @@
+include ':alipay_library', ':myapplication', ':wxpay_library'
